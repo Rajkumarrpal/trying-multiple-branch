@@ -1,0 +1,23 @@
+body{
+    background-color: black;
+    color: white;
+    margin: 0px;
+    height: 100vh;
+    size: 100px;
+}
+.nav{
+    list-style: none;
+    margin-top: 20px;
+ display: flex;
+ flex-direction: row;
+ gap: 50%;
+ justify-content:center;
+ 
+
+ 
+}
+.link{
+    text-decoration: none;
+ color: pink;
+ text-size-adjust: 50px;
+}
